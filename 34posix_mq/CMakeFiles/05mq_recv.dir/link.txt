@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/05mq_recv.dir/05mq_recv.cpp.o  -o 05mq_recv -rdynamic -lrt 

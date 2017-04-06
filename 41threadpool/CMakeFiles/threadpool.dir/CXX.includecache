@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chen/socket_learn/41threadpool/condition.h
+pthread.h
+-
+
+/home/chen/socket_learn/41threadpool/threadpool.cpp
+threadpool.h
+/home/chen/socket_learn/41threadpool/threadpool.h
+stdio.h
+-
+unistd.h
+-
+time.h
+-
+errno.h
+-
+
+/home/chen/socket_learn/41threadpool/threadpool.h
+condition.h
+/home/chen/socket_learn/41threadpool/condition.h
+

@@ -1,0 +1,2 @@
+/home/chen/socket_learn/39produce_consume/CMakeFiles/producer_consumer.dir
+/home/chen/socket_learn/39produce_consume/CMakeFiles/spinlock.dir

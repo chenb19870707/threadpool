@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/epollsvr.dir/epollsvr.cpp.o  -o epollsvr -rdynamic 

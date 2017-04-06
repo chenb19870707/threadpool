@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chen/socket_learn/35posix_shm/02mq_unlink.cpp
+unistd.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+mqueue.h
+-
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+

@@ -1,0 +1,2 @@
+/home/chen/socket_learn/21PF_Unix/CMakeFiles/echocli.dir
+/home/chen/socket_learn/21PF_Unix/CMakeFiles/echosvr.dir

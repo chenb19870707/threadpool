@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/04mmap.dir/04mmap.cpp.o  -o 04mmap -rdynamic -lrt 

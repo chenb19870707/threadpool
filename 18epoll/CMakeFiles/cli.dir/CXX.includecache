@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chen/socket_learn/18epoll/cli.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sysutil.h
+/home/chen/socket_learn/18epoll/sysutil.h
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+

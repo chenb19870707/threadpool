@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/mq_unlink.dir/mq_unlink.cpp.o  -o mq_unlink -rdynamic -lrt 

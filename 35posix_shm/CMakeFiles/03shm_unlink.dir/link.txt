@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/03shm_unlink.dir/03shm_unlink.cpp.o  -o 03shm_unlink -rdynamic -lrt 

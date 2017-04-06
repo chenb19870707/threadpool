@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/06mq_notify.dir/06mq_notify.cpp.o  -o 06mq_notify -rdynamic -lrt 

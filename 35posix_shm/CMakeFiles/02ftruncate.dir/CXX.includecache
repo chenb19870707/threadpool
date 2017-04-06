@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chen/socket_learn/35posix_shm/02ftruncate.cpp
+unistd.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+sys/mman.h
+-
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+

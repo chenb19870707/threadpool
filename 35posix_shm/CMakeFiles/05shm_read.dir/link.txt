@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/05shm_read.dir/05shm_read.cpp.o  -o 05shm_read -rdynamic -lrt 

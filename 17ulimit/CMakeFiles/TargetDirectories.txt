@@ -1,0 +1,5 @@
+/home/chen/socket_learn/17ulimit/CMakeFiles/echocli.dir
+/home/chen/socket_learn/17ulimit/CMakeFiles/echosvr.dir
+/home/chen/socket_learn/17ulimit/CMakeFiles/nofile_limit.dir
+/home/chen/socket_learn/17ulimit/CMakeFiles/pollsvr.dir
+/home/chen/socket_learn/17ulimit/CMakeFiles/stresscli.dir

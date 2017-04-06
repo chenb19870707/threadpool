@@ -1,0 +1,6 @@
+/home/chen/socket_learn/34posix_mq/CMakeFiles/01mq_open.dir
+/home/chen/socket_learn/34posix_mq/CMakeFiles/02mq_unlink.dir
+/home/chen/socket_learn/34posix_mq/CMakeFiles/03mq_getattr.dir
+/home/chen/socket_learn/34posix_mq/CMakeFiles/04mq_send.dir
+/home/chen/socket_learn/34posix_mq/CMakeFiles/05mq_recv.dir
+/home/chen/socket_learn/34posix_mq/CMakeFiles/06mq_notify.dir

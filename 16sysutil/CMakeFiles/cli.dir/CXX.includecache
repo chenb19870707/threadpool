@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chen/socket_learn/16sysutil/sysutil.cpp
+sysutil.h
+/home/chen/socket_learn/16sysutil/sysutil.h
+
+/home/chen/socket_learn/16sysutil/sysutil.h
+unistd.h
+-
+sys/select.h
+-
+signal.h
+-
+errno.h
+-
+netinet/in.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+

@@ -1,0 +1,3 @@
+/home/chen/socket_learn/38phread/CMakeFiles/01thread.dir
+/home/chen/socket_learn/38phread/CMakeFiles/echocli.dir
+/home/chen/socket_learn/38phread/CMakeFiles/echosvr.dir

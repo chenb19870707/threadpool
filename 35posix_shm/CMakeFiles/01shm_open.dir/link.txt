@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/01shm_open.dir/01shm_open.cpp.o  -o 01shm_open -rdynamic -lrt 

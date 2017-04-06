@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g -Wall -Wno-unused-variable -pthread    CMakeFiles/04mq_send.dir/04mq_send.cpp.o  -o 04mq_send -rdynamic -lrt 

@@ -1,0 +1,6 @@
+/home/chen/socket_learn/35posix_shm/CMakeFiles/01shm_open.dir
+/home/chen/socket_learn/35posix_shm/CMakeFiles/02ftruncate.dir
+/home/chen/socket_learn/35posix_shm/CMakeFiles/03shm_unlink.dir
+/home/chen/socket_learn/35posix_shm/CMakeFiles/04mmap.dir
+/home/chen/socket_learn/35posix_shm/CMakeFiles/05shm_read.dir
+/home/chen/socket_learn/35posix_shm/CMakeFiles/06mq_notify.dir

@@ -1,0 +1,2 @@
+/home/chen/socket_learn/18epoll/CMakeFiles/echocli.dir
+/home/chen/socket_learn/18epoll/CMakeFiles/epollsvr.dir
